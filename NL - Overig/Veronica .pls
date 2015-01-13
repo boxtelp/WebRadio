@@ -1,0 +1,21 @@
+[playlist]
+File1=http://8603.live.streamtheworld.com:80/VERONICAAAC_SC
+Title1=Radio Veronica
+Length1=-1
+File2=http://8603.live.streamtheworld.com:3690/VERONICAAAC_SC
+Title2=Radio Veronica
+Length2=-1
+File3=http://8603.live.streamtheworld.com:443/VERONICAAAC_SC
+Title3=Radio Veronica
+Length3=-1
+File4=http://8633.live.streamtheworld.com:80/VERONICAAAC_SC
+Title4=Radio Veronica
+Length4=-1
+File5=http://8633.live.streamtheworld.com:3690/VERONICAAAC_SC
+Title5=Radio Veronica
+Length5=-1
+File6=http://8633.live.streamtheworld.com:443/VERONICAAAC_SC
+Title6=Radio Veronica
+Length6=-1
+NumberOfEntries=6
+Version=2

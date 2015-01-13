@@ -1,0 +1,21 @@
+[playlist]
+File1=http://8573.live.streamtheworld.com:80/SKYRADIOAAC_SC
+Title1=Sky Radio 101 FM
+Length1=-1
+File2=http://8573.live.streamtheworld.com:3690/SKYRADIOAAC_SC
+Title2=Sky Radio 101 FM
+Length2=-1
+File3=http://8573.live.streamtheworld.com:443/SKYRADIOAAC_SC
+Title3=Sky Radio 101 FM
+Length3=-1
+File4=http://8563.live.streamtheworld.com:80/SKYRADIOAAC_SC
+Title4=Sky Radio 101 FM
+Length4=-1
+File5=http://8563.live.streamtheworld.com:3690/SKYRADIOAAC_SC
+Title5=Sky Radio 101 FM
+Length5=-1
+File6=http://8563.live.streamtheworld.com:443/SKYRADIOAAC_SC
+Title6=Sky Radio 101 FM
+Length6=-1
+NumberOfEntries=6
+Version=2
