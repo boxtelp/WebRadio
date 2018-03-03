@@ -1,3 +1,3 @@
 [playlist]
 NumberOfEntries=1
-File1=http://mp3.streampower.be/radio1-high.mp3
+File1=http://icecast.vrtcdn.be/radio1-high.mp3
